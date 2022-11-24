@@ -1,11 +1,41 @@
 /* Custom Stylesheet */
+
+/* CSS alterações
+Por:- Flavio Fernando Borato */
+ .h4c{
+  font-size: 35px;
+  text-align: center;
+  height: auto;
+  color: #2ce28d;
+}
+
+ .lbl_c{
+  font-size: 25px;
+  height: auto;
+  color: #2ce28d;
+}
+
+.inp_c{
+  text-align: center;
+  color: #2ce28d;
+  background-color: #575744;
+  font: bolder;
+}
+
+.inp_cb{
+  font-size: 15px;
+  text-align: center;
+  height: auto;
+  background-color: #05311d;
+  color: #eaf73f;
+}
+
 /**
  * Use this file to override Materialize files so you can update
  * the core Materialize files in the future
  *
  * Made By MaterializeCSS.com
  */
-
 nav ul a,
 nav .brand-logo {
   color: rgb(27, 23, 240);
